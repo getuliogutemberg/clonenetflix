@@ -40,6 +40,7 @@ header .container{
     /*flex-direction: row;*/
     align-items: center;
     justify-content: space-between;
+    
 }
 /*Filme Principal*/
 .filme-principal {
@@ -83,4 +84,14 @@ header .container{
 
 .botao i {
     margin-right:8px;
+}
+
+.container{
+    margin-left: 20px;
+    
+
+}
+
+.filme-principal .container{
+    width: 70%;
 }
